@@ -21,10 +21,10 @@ Python, Java, and C++.
 
 ## Outline
 
-* [Introduction to Object-Oriented Programming](https://github.com/LaughingRover/Python-Intro/edit/main/Day%203%3A%20Object-Oriented%20Programming.md#introduction-to-object-oriented-programming)
-* [Classes, Objects, and Methods](https://github.com/LaughingRover/Python-Intro/edit/main/Day%203%3A%20Object-Oriented%20Programming.md#classes-objects-and-methods)
-* [Constructors and Destructors](https://github.com/LaughingRover/Python-Intro/edit/main/Day%203%3A%20Object-Oriented%20Programming.md#constructors-and-destructors)
-* [Inheritance and Polymorphis](https://github.com/LaughingRover/Python-Intro/edit/main/Day%203%3A%20Object-Oriented%20Programming.md#inheritance-and-polymorphism)
+* [Introduction to Object-Oriented Programming](https://github.com/LaughingRover/Python-Intro/blob/main/Day%203%3A%20Object-Oriented%20Programming.md#introduction-to-object-oriented-programming)
+* [Classes, Objects, and Methods](https://github.com/LaughingRover/Python-Intro/blob/main/Day%203%3A%20Object-Oriented%20Programming.md#classes-objects-and-methods)
+* [Constructors and Destructors](https://github.com/LaughingRover/Python-Intro/blob/main/Day%203%3A%20Object-Oriented%20Programming.md#constructors-and-destructors)
+* [Inheritance and Polymorphis](https://github.com/LaughingRover/Python-Intro/blob/main/Day%203%3A%20Object-Oriented%20Programming.md#inheritance-and-polymorphism)
 
 ## Introduction to Object-Oriented Programming
 
