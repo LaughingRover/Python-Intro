@@ -27,11 +27,11 @@ programming challenges with confidence.
 
 ## Outline
 
-* Installing Python and an IDE
-* Running the First Program
-* Understanding Variables, Data Types, and Operators
-* Basic Input and Output
-* Control Structures: Conditional Statements and Loops
+* [Installing Python and an IDE](https://github.com/LaughingRover/Python-Intro/blob/main/Day%201:%20Introduction%20to%20Python.md#installing-python-and-an-ide)
+* [Running the First Program](https://github.com/LaughingRover/Python-Intro/blob/main/Day%201:%20Introduction%20to%20Python.md#running-the-first-program)
+* [Understanding Variables, Data Types, and Operators](https://github.com/LaughingRover/Python-Intro/blob/main/Day%201:%20Introduction%20to%20Python.md#understanding-variables-data-types-and-operators)
+* [Basic Input and Output](https://github.com/LaughingRover/Python-Intro/blob/main/Day%201%3A%20Introduction%20to%20Python.md#basic-input-and-output)
+* [Control Structures: Conditional Statements and Loops](https://github.com/LaughingRover/Python-Intro/blob/main/Day%201%3A%20Introduction%20to%20Python.md#control-structures-conditional-statements-and-loops)
 
 ## Installing Python and an IDE
 
