@@ -20,11 +20,11 @@ which will allow you to write more efficient and effective code.
 
 ### Outline
 
-* Understanding Functions and Creating your Own
-* Built-in Functions and Standard Library Functions
-* Working with Lists, Tuples, and Dictionaries
-* Basic Operations on Data Structures
-* String Manipulation
+* [Understanding Functions and Creating your Own](https://github.com/LaughingRover/Python-Intro/blob/main/Day%202%3A%20Functions%20and%20Data%20Structures.md#understanding-functions-and-creating-your-own)
+* [Built-in Functions and Standard Library Functions](https://github.com/LaughingRover/Python-Intro/blob/main/Day%202%3A%20Functions%20and%20Data%20Structures.md#built-in-functions-and-standard-library-functions)
+* [Working with Lists, Tuples, and Dictionaries](https://github.com/LaughingRover/Python-Intro/blob/main/Day%202%3A%20Functions%20and%20Data%20Structures.md#working-with-lists-tuples-and-dictionaries)
+* [Basic Operations on Data Structures](https://github.com/LaughingRover/Python-Intro/blob/main/Day%202%3A%20Functions%20and%20Data%20Structures.md#basic-operations-on-data-structures)
+* [String Manipulation](https://github.com/LaughingRover/Python-Intro/blob/main/Day%202%3A%20Functions%20and%20Data%20Structures.md#string-manipulation)
 
 ### Understanding Functions and Creating your Own
 
