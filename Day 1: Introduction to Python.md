@@ -27,11 +27,11 @@ programming challenges with confidence.
 
 ## Outline
 
-● Installing Python and an IDE
-● Running the First Program
-● Understanding Variables, Data Types, and Operators
-● Basic Input and Output
-● Control Structures: Conditional Statements and Loops
+* Installing Python and an IDE
+* Running the First Program
+* Understanding Variables, Data Types, and Operators
+* Basic Input and Output
+* Control Structures: Conditional Statements and Loops
 
 ## Installing Python and an IDE
 
@@ -66,33 +66,33 @@ IDE - Integrated Development Environment.
 
 **Variables** :
 
-● Variables are containers for storing values in Python.
-● To create a variable, you need to give it a name and assign a value to it using
+* Variables are containers for storing values in Python.
+* To create a variable, you need to give it a name and assign a value to it using
 the equal sign (=) operator. For example: x = 5
-● You can then use the variable name in your code to refer to the value it holds.
+* You can then use the variable name in your code to refer to the value it holds.
 For example: print(x) will output 5.
 
 
 ## Data Types:
 
 
-● Python supports various data types, such as integers, floating-point numbers,
+* Python supports various data types, such as integers, floating-point numbers,
 strings, and booleans.
-● To check the data type of a value, you can use the type() function. For
+* To check the data type of a value, you can use the type() function. For
 example: type(5) will output <class 'int'>.
-● You can also convert a value from one data type to another using type
+* You can also convert a value from one data type to another using type
 conversion functions, such as int(), float(), str(), and bool().
 
 
 ## Operators:
 
 
-● Operators are symbols that perform operations on values in Python.
-● Some common operators include:
-    ○ Arithmetic operators, such as +, -, *, /, and %.
-    ○ Comparison operators, such as ==, !=, <, >, <=, and >=.
-    ○ Logical operators, such as and, or, and not.
-● Operators follow the order of precedence, which determines the order in
+* Operators are symbols that perform operations on values in Python.
+* Some common operators include:
+    * Arithmetic operators, such as +, -, *, /, and %.
+    * Comparison operators, such as ==, !=, <, >, <=, and >=.
+    * Logical operators, such as and, or, and not.
+* Operators follow the order of precedence, which determines the order in
 which they are evaluated in an expression. You can use parentheses to
 override the default precedence order.
 
@@ -102,41 +102,41 @@ override the default precedence order.
 Output:
 
 
-● To display text on the screen, you can use the print() function in Python. For
+* To display text on the screen, you can use the print() function in Python. For
 example: print("Hello, world!") will output Hello, world! to the console.
 
 
-● You can also use the format() method to insert values into a string. For
+* You can also use the format() method to insert values into a string. For
 example: ```print("My name is {} and I am {} years old.".format("John", 30))``` will
 output My name is John and I am 30 years old..
 
 
 ## Input
 
-● To get input from the user, you can use the input() function in Python. For
+* To get input from the user, you can use the input() function in Python. For
 example: ```name = input("What is your name? ")``` will prompt the user to enter
 their name and store it in the name variable.
 
 
-● By default, input() returns a string. If you want to get a different data type, you
+* By default, input() returns a string. If you want to get a different data type, you
 need to convert the input value using type conversion functions, such as ```int()```,
 ```float()```, or ```bool()```.
 
 
 ## File Input and Output:
 
-● You can also read and write data to files in Python using file input/output (I/O)
+* You can also read and write data to files in Python using file input/output (I/O)
 operations.
-● To open a file for reading, use the open() function with the file name and
+* To open a file for reading, use the open() function with the file name and
 mode. For example: file = open("myfile.txt", "r") will open the file myfile.txt for
 reading.
-● To read the contents of the file, you can use the read() method on the file
+* To read the contents of the file, you can use the read() method on the file
 object. For example: contents = file.read() will read the entire contents of the
 file into the contents variable.
-● To write data to a file, you can use the write() method on the file object. For
+* To write data to a file, you can use the write() method on the file object. For
 example: file.write("Hello, world!") will write the text Hello, world! to the file.
 
-● After you're done with the file, it's important to close it using the close()
+* After you're done with the file, it's important to close it using the close()
 method. For example: file.close() will close the file.
 
 By mastering input/output operations in Python, you'll be able to create more
