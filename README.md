@@ -8,14 +8,13 @@ To get started with the course, you will need to have Python installed on your c
 
 You will also need an Integrated Development Environment (IDE) for Python, such as [PyCharm](https://www.jetbrains.com/pycharm/) or [Visual Studio Code](https://code.visualstudio.com/). These IDEs provide a user-friendly interface for writing, testing, and debugging Python code.
 
-## Course Outline
+## [Course Outline](https://github.com/LaughingRover/Python-Intro/blob/main/Course%20Outline.md)
 
-- Day 1: Introduction to Python and Programming Basics
-- Day 2: Understanding Variables, Data Types, and Operators
-- Day 3: Control Structures: Conditional Statements and Loops
-- Day 4: Functions and Data Structures
-- Day 5: Object-Oriented Programming and File Handling and Modules
-- Day 6: Mini Project
+- Day 1: [Introduction to Python and Programming Basics](https://github.com/LaughingRover/Python-Intro/blob/main/Day%201:%20Introduction%20to%20Python.md)
+- Day 2: [Functions and Data Structures](https://github.com/LaughingRover/Python-Intro/blob/main/Day%202:%20Functions%20and%20Data%20Structures.md)
+- Day 3: [Object-Oriented Programming](https://github.com/LaughingRover/Python-Intro/blob/main/Day%203:%20Object-Oriented%20Programming.md)
+- Day 4: [File Handling and Modules](https://github.com/LaughingRover/Python-Intro/blob/main/Day%204:%20File%20Handling%20and%20Modules.md)
+- Day 5: [Mini Project](https://github.com/LaughingRover/Python-Intro/blob/main/Day%205:%20Simple%20Quiz%20Game.md)
 
 ## Exercises
 
