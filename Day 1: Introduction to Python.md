@@ -50,16 +50,21 @@ IDE - Integrated Development Environment.
 
 ## Running the First Program
 
-1. Open your preferred IDE (Integrated Development Environment) and create a
-    new Python file. You can name it anything you like, but it's a good idea to give
-    it a descriptive name.
-2. In the Python file, type the following code: `print("Hello, World")`
-3. Save the file with a .py extension. For example, you can save it as
-    "hello_world.py".
-4. Run the program by either clicking on the "Run" button in your IDE, or by
-    opening your command prompt (Windows) or terminal (Mac or Linux),
-    navigating to the directory where the Python file is saved, and running the
-    following command: `python hello_world.py`
+1. Open your preferred IDE (such as PyCharm, VS Code, or Sublime Text) and create a new Python file. Let's call it "hello_world.py".
+2. In the Python file, type the following code:
+
+```python
+print("Hello, World!")
+```
+
+3. Save the file with a .py extension. For example, you can save it as "hello_world.py".
+4. Run the program by clicking on the "Run" button in your IDE or by opening your command prompt or terminal, navigating to the directory where the Python file is saved, and running the following command:
+
+```bash
+python hello_world.py
+```
+
+This will execute the program and output the message "Hello, World!" to the console. Congratulations, you have created and run your first Python program!
 
 
 ## Understanding Variables, Data Types, and Operators
@@ -68,9 +73,21 @@ IDE - Integrated Development Environment.
 
 * Variables are containers for storing values in Python.
 * To create a variable, you need to give it a name and assign a value to it using
-the equal sign (=) operator. For example: `x = 5`
+the equal sign (=) operator. 
+
+For example:
+```py
+x = 5
+```
+
 * You can then use the variable name in your code to refer to the value it holds.
-For example: `print(x)` will output `5`.
+
+For example: 
+```py
+print(x)
+``` 
+
+will output `5`.
 
 
 ## Data Types:
@@ -99,11 +116,11 @@ override the default precedence order.
 
 ## Basic Input and Output
 
-Output:
+## Output:
 
 
-* To display text on the screen, you can use the print() function in Python. For
-example: print("Hello, world!") will output Hello, world! to the console.
+* To display text on the screen, you can use the `print()` function in Python. For
+example: `print("Hello, world!")` will output Hello, world! to the console.
 
 
 * You can also use the format() method to insert values into a string. For
@@ -122,6 +139,40 @@ their name and store it in the name variable.
 need to convert the input value using type conversion functions, such as `int()`,
 `float()`, or `bool()`.
 
+```python
+# Example code for data types and type conversion
+x = 5
+y = 3.14
+z = "hello"
+w = True
+
+print(type(x))  # output: <class 'int'>
+print(type(y))  # output: <class 'float'>
+print(type(z))  # output: <class 'str'>
+print(type(w))  # output: <class 'bool'>
+
+a = float(x)
+b = int(y)
+c = str(w)
+d = bool(z)
+
+print(type(a))  # output: <class 'float'>
+print(type(b))  # output: <class 'int'>
+print(type(c))  # output: <class 'str'>
+print(type(d))  # output: <class 'bool'>
+```
+
+Output:
+```
+<class 'int'>
+<class 'float'>
+<class 'str'>
+<class 'bool'>
+<class 'float'>
+<class 'int'>
+<class 'str'>
+<class 'bool'>
+```
 
 ## File Input and Output:
 
@@ -137,6 +188,26 @@ object. For example: `contents = file.read()` will read the entire contents of t
 By mastering input/output operations in Python, you'll be able to create more
 complex and interactive programs that can interact with users and read and write data to files. More on reading and writing with python
 
+Here's an example of file input and output in Python:
+
+```python
+# Writing to a file
+file = open("myfile.txt", "w")
+file.write("Hello, world!")
+file.close()
+
+# Reading from a file
+file = open("myfile.txt", "r")
+contents = file.read()
+file.close()
+
+print(contents)
+```
+
+Output:
+```
+Hello, world!
+```
 
 ## Control Structures: Conditional Statements and Loops
 
