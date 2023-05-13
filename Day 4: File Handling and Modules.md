@@ -73,6 +73,44 @@ In addition, Python provides several tools to help you manage your modules, incl
 
 Overall, creating and importing your own modules is an essential skill for Python developers who want to write efficient and maintainable code. By mastering this concept, you can build more robust and reliable applications that are easier to maintain and extend over time.
 
+Here's an example of how to create and import a module in Python:
+
+1. Create a file called my_module.py and add the following code:
+
+```py
+def greet(name):
+    print(f"Hello, {name}!")
+```
+
+2. In another Python script, import the module using the import statement:
+
+```py
+import my_module
+
+my_module.greet("John")
+```
+
+This will output "Hello, John!" to the console.
+
+You can also import specific functions from a module using the from ... import statement:
+
+```py
+from my_module import greet
+
+greet("Jane")
+```
+
+This will output "Hello, Jane!" to the console.
+
+Finally, you can give a module an alias using the as keyword:
+
+```py
+import my_module as mm
+
+mm.greet("Bob")
+```
+
+This will output "Hello, Bob!" to the console.
 
 ## Exercise
 
