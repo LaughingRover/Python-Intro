@@ -15,6 +15,7 @@ You will also need an Integrated Development Environment (IDE) for Python, such 
 - Day 3: [Object-Oriented Programming](https://github.com/LaughingRover/Python-Intro/blob/main/Day%203:%20Object-Oriented%20Programming.md)
 - Day 4: [File Handling and Modules](https://github.com/LaughingRover/Python-Intro/blob/main/Day%204:%20File%20Handling%20and%20Modules.md)
 - Day 5: [Mini Project](https://github.com/LaughingRover/Python-Intro/blob/main/Day%205:%20Simple%20Quiz%20Game.md)
+- [What Next](https://github.com/LaughingRover/Python-Intro/blob/main/What%20Next.md)
 
 ## Exercises
 
