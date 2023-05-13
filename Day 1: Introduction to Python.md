@@ -151,7 +151,7 @@ The most common conditional statement in Python is the if statement. For example
 
 
 ## If Statement
-```
+```py
 age = 25
 if age >= 18:
     print("You are an adult.")
@@ -169,7 +169,7 @@ Loops allow you to execute the same code block multiple times. are two types of 
 
 **For loops** are used to iterate over a sequence of elements. For example:
 
-```
+```py
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
     print(fruit)
@@ -181,7 +181,7 @@ In this example, the code will iterate over the fruits list and print each fruit
 
 while loops are used to execute a code block repeatedly while a certain condition
 is true. For example:
-```
+```py
 i = 0
 while i < 5:
     print(i)
