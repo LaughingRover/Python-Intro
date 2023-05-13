@@ -229,9 +229,7 @@ if age >= 18:
 else:
     print("You are a minor.")
 ```
-In this example, the code will check if the age variable is greater than or equal to
-
-18. If it is, it will print `You are an adult.` Otherwise, it will print `You are a minor.`.
+In this example, the code will check if the age variable is greater than or equal to `18`. If it is, it will print `You are an adult.` Otherwise, it will print `You are a minor.`.
 
 
 ## Loops
