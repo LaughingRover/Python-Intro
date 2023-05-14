@@ -216,8 +216,9 @@ In this example, the code will check if the age variable is greater than or equa
 
 Loops allow you to execute the same code block multiple times. are two types of loops in Python: for loops and while loops.
 
-**For loops** are used to iterate over a sequence of elements. For example:
+## For loops
 
+For loops are used to iterate over a sequence of elements. For example:
 ```py
 fruits = ["apple", "banana", "cherry"]
 for fruit in fruits:
@@ -228,7 +229,7 @@ In this example, the code will iterate over the fruits list and print each fruit
 
 ## While loops
 
-while loops are used to execute a code block repeatedly while a certain condition
+While loops are used to execute a code block repeatedly while a certain condition
 is true. For example:
 ```py
 i = 0
