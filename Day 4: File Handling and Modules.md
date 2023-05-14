@@ -34,6 +34,41 @@ It's important to remember to close the file after you're done working with it. 
 
 In addition to reading and writing files, Python provides several other file handling operations, such as appending to a file, renaming a file, and deleting a file. By mastering these operations, you can work with data stored in files more efficiently and effectively in your Python programs.
 
+## File Input and Output:
+
+* You can also read and write data to files in Python using file input/output (I/O) operations.
+* To open a file for reading, use the open() function with the file name and
+mode. For example: `file = open("myfile.txt", "r")` will open the file myfile.txt for reading.
+* To read the contents of the file, you can use the read() method on the file
+object. For example: `contents = file.read()` will read the entire contents of the file into the contents variable.
+* To write data to a file, you can use the write() method on the file object. For example: `file.write("Hello, world!")` will write the text Hello, world! to the file.
+
+* After you're done with the file, it's important to close it using the `close()` method. For example: `file.close()` will close the file.
+
+By mastering input/output operations in Python, you'll be able to create more
+complex and interactive programs that can interact with users and read and write data to files. More on reading and writing with python
+
+Here's an example of file input and output in Python:
+
+```python
+# Writing to a file
+file = open("myfile.txt", "w")
+file.write("Hello, world!")
+file.close()
+
+# Reading from a file
+file = open("myfile.txt", "r")
+contents = file.read()
+file.close()
+
+print(contents)
+```
+
+Output:
+```
+Hello, world!
+```
+
 
 ## Understanding Modules and Importing Them
 
